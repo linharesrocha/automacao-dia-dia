@@ -1,0 +1,1 @@
+Acessa o arquvio csv e verifica em cada url as dimensões da imagem.
